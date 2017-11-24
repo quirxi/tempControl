@@ -18,6 +18,7 @@ Distributed under the GNU LGPL v.3.0.
 
 ## References
 
+* [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
 * LINK: Arduino Nano
 * LINK: Arduino Anleitung
 * LINK: MAX31855 kaufseite + specs
