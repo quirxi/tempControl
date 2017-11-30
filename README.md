@@ -20,6 +20,8 @@ Distributed under the GNU LGPL v.3.0.
 
 * [MAX31855 K-Type thermoelement breakout board for arduino.](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
 * [Adafruit's MAX31855 tutorial.](https://learn.adafruit.com/connecting-the-max31855-thermocouple-amplifier-breakout-to-an-electric-imp/breadboarding-the-circuit)
+* [Adafruit-MAX31855-library](https://github.com/adafruit/Adafruit-MAX31855-library)
+* [Newer version of SPI lib.](https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SPI)
 * LINK: Arduino Nano
 * LINK: Arduino Anleitung
 * LINK: MAX31855 kaufseite + specs
