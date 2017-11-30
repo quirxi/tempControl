@@ -31,5 +31,5 @@ Distributed under the GNU LGPL v.3.0.
 ## Authors:
 
 * quirxi (https://github.com/quirxi)
-* Cub3master (https://github.com/Cub3master)
+* Cubemas33r (https://github.com/Cubemast3r)
  
