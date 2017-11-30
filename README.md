@@ -23,10 +23,13 @@ Distributed under the GNU LGPL v.3.0.
 * [Newer version of SPI lib](https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SPI)
 * [MAX31855 specs and datasheet](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/MAX31855.html)
 * [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
+* [ATmega328 Datasheet](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
 * LINK: Arduino Nano
 * LINK: Arduino Anleitung
 * LINK: K-Type Thermocouple specs
 * LINK: MOSFET
+
+
 
 ## Authors:
 
