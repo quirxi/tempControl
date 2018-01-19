@@ -18,16 +18,22 @@ Distributed under the GNU LGPL v.3.0.
 
 ## References
 
-* [MAX31855 K-Type thermoelement breakout board for arduino.](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
-* [Adafruit's MAX31855 tutorial.](https://learn.adafruit.com/connecting-the-max31855-thermocouple-amplifier-breakout-to-an-electric-imp/breadboarding-the-circuit)
+* [henrysbench arduino-max31855 tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-temperature-measurements/max31855-arduino-k-thermocouple-sensor-manual-and-tutorial/)
+* [Adafruit-MAX31855-library](https://github.com/adafruit/Adafruit-MAX31855-library)
+* [Newer version of SPI lib](https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SPI)
+* [MAX31855 specs and datasheet](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/MAX31855.html)
+* [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
+* [ATmega328 Datasheet](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
+* [Arduino Nano Pinout Diagram](http://www.pighixxx.com/test/wp-content/uploads/2014/11/nano.png)
 * LINK: Arduino Nano
 * LINK: Arduino Anleitung
-* LINK: MAX31855 kaufseite + specs
 * LINK: K-Type Thermocouple specs
 * LINK: MOSFET
+
+
 
 ## Authors:
 
 * quirxi (https://github.com/quirxi)
-* Cub3master (https://github.com/Cub3master)
+* Cubemast3r (https://github.com/Cubemast3r)
  
