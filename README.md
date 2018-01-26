@@ -27,7 +27,14 @@ On the output side a mosfet/relay is connected to the arduino board on the PWM p
 
 3. We downloaded the newest version of the SPI library from https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SPI and copied it to the Arduino libraries folder in /usr/share/arduino/libraries/SPI/SPI.h. 
 
-4. Wiring
+4. Connect the Arduino nano with the MAX31855K breakout board according to following circuit diagram.
+
+<img src="docs/img/MAX31855K_Breakout_ArduinoNano_wiring.jpg" alt="Breadboard wiring" height="250">
+<img src="docs/img/tempControl_wiring.png" alt="Wiring diagram" height="500">
+
+* You can find the Fritzing wiring diagram file (tempControl.fzz) in the docs folder.
+
+
 
 ### Explanation
 
