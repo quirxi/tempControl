@@ -1,5 +1,4 @@
 
-#include <SPI.h>
 #include "Adafruit_MAX31855.h"
 
 int thermoCLK = 3;
