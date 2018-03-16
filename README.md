@@ -73,6 +73,12 @@ The SPI is a fast synchronous protocol that tipically uses uses 4 pins for commu
     2. MOSI – MOSI stands for Master Out Slave In. This pin is the output pin for Master and input pin for Slave. Data transfer from Master to Slave takes place through this channel.
     3. SCK – This is the SPI clock line (since SPI is a synchronous communication).
     4. SS – This stands for Slave Select. This pin would be discussed in detail later in the post.
+    
+__5. PID controller__
+
+PID Controller is a most common control algorithm used in industrial automation & applications. PID controllers are used for precise and accurate control of various parameters. Most often these are used for the regulation of temperature, pressure, speed, flow and other process variables. For in depth information about how PID controller work see reference section.
+
+
 
 ## License
 
@@ -89,12 +95,18 @@ Distributed under the GNU LGPL v.3.0.
 * [Arduino Nano Pinout Diagram](http://www.pighixxx.com/test/wp-content/uploads/2014/11/nano.png)
 * [Arduino Anleitung](www.arduino.cc/en/Guide/HomePage)
 * [K-Type Thermocouple specs](https://www.thermocoupleinfo.com/type-k-thermocouple.htm)
+* [PID diagrams](http://ww1.microchip.com/downloads/en/AppNotes/Atmel-2558-Discrete-PID-Controller-on-tinyAVR-and-megaAVR_ApplicationNote_AVR221.pdf)
+* [Working of a PID controller](https://www.elprocus.com/the-working-of-a-pid-controller/)
+* [PID controller](http://manuals.chudov.com/Servo-Tuning/PID-without-a-PhD.pdf)
+* [PID controlling algorithm](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/)
+* [PID Arduino library](https://github.com/br3ttb/Arduino-PID-Library)
+* [PID for dummies](https://www.csimn.com/CSI_pages/PIDforDummies.html)
 
 ## TODOs
 
 * Solid State Relais
-* PID-controller
 * GUI
+* [PID tuning](https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method)
 
 ## Authors
 
