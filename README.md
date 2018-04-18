@@ -48,7 +48,7 @@ __Software__
 
 1. Open the "tempControl.ino" file that you can find here, "Verify" and "Upload" it to your Arduino board via USB connection
     
-2. Once the code upload finishes verifying, open the serial monitor (found in the ‘Tools’ menu). You should be able to read the temperature your thermocouple is detecting on the serial monitor in reak time. If it isn’t working, make sure you have assembled the circuit correctly and verified and uploaded the code to your board. 
+2. Once the code upload finishes verifying, open the serial monitor (found in the ‘Tools’ menu). You should be able to read the temperature your thermocouple is detecting on the serial monitor in real time. If it isn’t working, make sure you have assembled the circuit and uploaded the code to your board correctly. 
 
 
 ### Explanation
