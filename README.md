@@ -14,7 +14,7 @@ A PID controller is switching the SSR till the given target temperature is reach
 * [Thermocouple](https://www.banggood.com/de/Universal-K-Type-EGT-Thermocouple-Temperature-Sensors-For-Exhaust-Gas-Probe-p-1011377.html?rmmds=search&cur_warehouse=CN)
 * [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
 * [Arduino Nano clone](https://www.banggood.com/de/ATmega328P-Arduino-Compatible-Nano-V3-Improved-Version-No-Cable-p-959231.html?gmcCountry=AT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_elc&utm_content=zouzou&utm_campaign=pla-at-arduino-pc&gclid=EAIaIQobChMIm8_gxOD-1gIVBl8ZCh32wQj4EAQYAiABEgIKwfD_BwE&cur_warehouse=CN)
-* [https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html](Solid State Relay)
+* [Solid State Relay](https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html)
 * you will also need a soldering iron, jumper cables, breadbord etc.
 
 ### Setup
@@ -91,7 +91,7 @@ Distributed under the GNU LGPL v.3.0.
 * [Thermocouple](https://www.banggood.com/de/Universal-K-Type-EGT-Thermocouple-Temperature-Sensors-For-Exhaust-Gas-Probe-p-1011377.html?rmmds=search&cur_warehouse=CN)
 * [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
 * [Arduino Nano clone](https://www.banggood.com/de/ATmega328P-Arduino-Compatible-Nano-V3-Improved-Version-No-Cable-p-959231.html?gmcCountry=AT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_elc&utm_content=zouzou&utm_campaign=pla-at-arduino-pc&gclid=EAIaIQobChMIm8_gxOD-1gIVBl8ZCh32wQj4EAQYAiABEgIKwfD_BwE&cur_warehouse=CN)
-* [https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html](Solid State Relay)
+* [Solid State Relay](https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html)
 * [henrysbench arduino-max31855 tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-temperature-measurements/max31855-arduino-k-thermocouple-sensor-manual-and-tutorial/)
 * [MAX31855 specs and datasheet](https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf)
 * [ATmega328 Datasheet](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
