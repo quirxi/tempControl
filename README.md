@@ -90,7 +90,7 @@ Distributed under the GNU LGPL v.3.0.
 * [MAX31855 K-Type thermoelement breakout board for arduino](https://www.banggood.com/de/MAX31855-K-Type-Thermocouple-Breakout-Board-Temperature-Measurement-Module-For-Arduino-p-1086523.html?currency=EUR)
 * [Arduino Nano clone](https://www.banggood.com/de/ATmega328P-Arduino-Compatible-Nano-V3-Improved-Version-No-Cable-p-959231.html?gmcCountry=AT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_elc&utm_content=zouzou&utm_campaign=pla-at-arduino-pc&gclid=EAIaIQobChMIm8_gxOD-1gIVBl8ZCh32wQj4EAQYAiABEgIKwfD_BwE&cur_warehouse=CN)
 * [henrysbench arduino-max31855 tutorial](http://henrysbench.capnfatz.com/henrys-bench/arduino-temperature-measurements/max31855-arduino-k-thermocouple-sensor-manual-and-tutorial/)
-* [MAX31855 specs and datasheet](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/MAX31855.html)
+* [MAX31855 specs and datasheet](https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf)
 * [ATmega328 Datasheet](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
 * [Arduino Nano Pinout Diagram](http://www.pighixxx.com/test/wp-content/uploads/2014/11/nano.png)
 * [Arduino Anleitung](www.arduino.cc/en/Guide/HomePage)
