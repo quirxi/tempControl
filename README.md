@@ -1,13 +1,15 @@
 # **Temperature Control**
 
 
-A basic temperature control example that uses to read in a temperature via a K-Type thermocouple sensor.
+A basic temperature control example that reads in a temperature via a K-Type thermocouple sensor.
 The volt output of the sensor is processed by an MAX31855 board and read out by an Arduino Nano.
 The so gained temperature value is given out to the serial console of the Arduino Nano.
 On an output pin of the arduino nano a Solid State Relay (SSR) is connected. 
 A PID controller is switching the SSR till the given target temperature is reached.
 
+
 ## Instructions
+
 
 ### What you need:
 
@@ -16,6 +18,7 @@ A PID controller is switching the SSR till the given target temperature is reach
 * [Arduino Nano clone](https://www.banggood.com/de/ATmega328P-Arduino-Compatible-Nano-V3-Improved-Version-No-Cable-p-959231.html?gmcCountry=AT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_elc&utm_content=zouzou&utm_campaign=pla-at-arduino-pc&gclid=EAIaIQobChMIm8_gxOD-1gIVBl8ZCh32wQj4EAQYAiABEgIKwfD_BwE&cur_warehouse=CN)
 * [Solid State Relay](https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html)
 * you will also need a soldering iron, jumper cables, breadbord etc.
+
 
 ### Setup
 
@@ -44,12 +47,12 @@ __Software__
     
 4. Open "Menu->Sketch->Include Libraries->Manage Libraries.." in the Arduino IDE and search for "Adafruit MAX31855" and "PID" by Brett Beauregard (version 1.2.0 at time of writing) and install it. 
 
+
 ### Programming
 
 1. Open the "tempControl.ino" file that you can find here, "Verify" and "Upload" it to your Arduino board via USB connection
     
 2. Once the code upload finishes verifying, open the serial monitor (found in the ‘Tools’ menu). You should be able to read the temperature your thermocouple is detecting on the serial monitor in real time. If it isn’t working, make sure you have assembled the circuit and uploaded the code to your board correctly. 
-
 
 
 ### Explanation
@@ -81,8 +84,6 @@ __5. PID controller__
 
 PID Controller is a most common control algorithm used in industrial automation & applications. PID controllers are used for precise and accurate control of various parameters. Most often these are used for the regulation of temperature, pressure, speed, flow and other process variables. For in depth information about how PID controller work see reference section.
 
-
-
 ## License
 
 Distributed under the GNU LGPL v.3.0.
@@ -106,12 +107,15 @@ Distributed under the GNU LGPL v.3.0.
 * [PID Arduino library](https://github.com/br3ttb/Arduino-PID-Library)
 * [PID for dummies](https://www.csimn.com/CSI_pages/PIDforDummies.html)
 
+
 ## TODOs
 
 * Solid State Relais
 * GUI
 * [PID tuning](https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method)
-* Change Fritzing pictures and table of power supply 3.3 Volt -> Vin !! Bug ...
+* Change Fritzing pictures and table for hardware SPI.
+* Pictures of new setpup with water kettle
+
 
 ## Authors
 
